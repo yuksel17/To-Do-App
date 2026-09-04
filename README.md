@@ -329,7 +329,6 @@ The project focuses on:
 
 ---
 
-# 🇹🇷 Türkçe
 
 # 📱 ToDoApp - iOS UIKit To-Do Uygulaması
 
