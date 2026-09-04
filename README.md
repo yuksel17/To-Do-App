@@ -657,10 +657,3 @@ Proje geliştirilirken özellikle aşağıdaki konular üzerinde çalışılmı�
 
 ---
 
-## 👩‍💻 Geliştirici
-
-**ToDoApp**
-
-Swift ve UIKit kullanılarak geliştirilmiştir.
-
-**Technologies:** Swift · UIKit · Auto Layout · UserDefaults · Codable
